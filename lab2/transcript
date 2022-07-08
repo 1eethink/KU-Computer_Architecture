@@ -1,0 +1,5 @@
+# error: Layout::Clairvoyance can't read "map(t)": no such element in array
+# can't read "map(t)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile {C:/Users/t8/Desktop/Computer Architecture/lab2/tb_.sv}
